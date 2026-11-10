@@ -1,0 +1,7 @@
+# Measured in the Python 3.13.5 Linux workspace for the 7-stage extracted original-source run.
+# These are local versions, not a record of the independent Colab run.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+# pyarrow was unavailable in this workspace; source Feather decoded by the original read-only V1 decoder.
+# The 842 MB archive mode needs an additional pyarrow installation as listed in requirements-full.txt.

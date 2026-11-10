@@ -1,0 +1,9 @@
+date,STRESS,group_A,group_B,S_A,NoGrowth_A,Unknown_A,S_B,NoGrowth_B,Unknown_B,diff_low,diff_high,order_identified
+20220810,H2O2_0.65mM,Unperturbed,rpoS_KO,74,1,15,1,99,2,1213/1530,749/765,True
+20220810,H2O2_0.75mM,Unperturbed,rpoS_KO,56,3,28,2,78,3,4213/7221,2266/2407,True
+20220914,H2O2_0.65mM,CAM_after_burst,CAM_throughout,31,30,30,26,45,53,-3345/11284,2599/5642,False
+20220914,H2O2_0.75mM,CAM_after_burst,CAM_throughout,6,11,5,2,27,43,-31/88,17/36,False
+20230620,H2O2_0.65mM,CAM_after_burst,CAM_throughout,39,7,14,6,42,9,147/380,887/1140,True
+20230620,H2O2_0.75mM,CAM_after_burst,CAM_throughout,32,11,16,8,62,5,1633/4425,3128/4425,True
+20230712,H2O2_0.65mM,Unperturbed,rpoS_KO,47,0,10,0,60,0,47/57,1/1,True
+20230712,H2O2_0.75mM,Unperturbed,rpoS_KO,42,0,12,3,57,0,131/180,19/20,True

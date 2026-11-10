@@ -1,0 +1,48 @@
+# ReScience C author metadata. Source-code license: MIT (LICENSE).
+# Companion preprint version DOI: 10.5281/zenodo.24115006; all-versions DOI: 10.5281/zenodo.24115005.
+# These are preprint DOIs, not a DOI for software code or the reviewed journal article.
+title: '[Re] Independent Python replication of E. coli starvation-stress reporter analyses'
+authors:
+- name: Rongzhen Dai
+  orcid: 0009-0005-7165-0080
+  email: dairongzhen3@gmail.com
+  affiliations: 1,*
+affiliations:
+- code: 1
+  name: Independent Researcher
+  address: Yangzhou, China
+keywords: computational replication, reproducibility, Escherichia coli, starvation, oxidative stress, selection bias, fluorescence, missing outcomes, Python
+code:
+- url: https://github.com/dairongzhen3-creator/ecoli-stress-rescience-replication
+  doi: null
+  swh: null
+data:
+- url: https://doi.org/10.5281/zenodo.18059846
+  doi: 10.5281/zenodo.18059846
+replication:
+- cite: Gervais, T. et al. (2026), E. coli prepares for starvation by dramatically remodeling its proteome in the first hours after loss of nutrients, Molecular Systems Biology.
+  bib: Gervais2026
+  url: https://doi.org/10.1038/s44320-026-00226-5
+  doi: 10.1038/s44320-026-00226-5
+abstract: 'We independently replicate the exported numerical analyses underlying Figure 6B/C/D of Gervais et al.''s Escherichia coli starvation and oxidative-challenge study and examine how the observational hierarchy affects their interpretation. The recovery panel contains 1,153 software-defined cycles, including 245 unresolved outcomes; 1,145 recovery IDs appear in the pre-challenge reporter table, with 1,139 carrying usable measurements of both reporters. Treatment arms form two disjoint sets of experiment dates, making a four-arm comparison distinct from a within-date contrast. Under unrestricted binary completion, the pooled CAM-after-minus-CAM-throughout contrast remains positive by at least 0.210 percentage points, but both September 2022 dose strata admit an ordering reversal; the June 2023 dose strata remain positive. Equal weighting of 37 source-identifier partitions is a separate descriptive estimand: its small cross-date order reversal requires 130 simultaneous, oppositely assigned
+  unresolved labels. We reproduce the author''s exported reporter summaries, recover panel-specific sample definitions, and provide runnable source checks, exact finite-record sensitivity intervals and figure reconstruction. The work clarifies when a pooled software-level ranking is robust, and what assumptions are required to compare it across observation sets and source dates.'
+bibliography: paper.bib
+type: Replication
+domain: Computational Biology
+language: Python
+review:
+- url: null
+contributors: []
+dates:
+- received: null
+  accepted: null
+  published: null
+article:
+- number: null
+  doi: null
+  url: null
+journal:
+- name: ReScience C
+  issn: 2430-3658
+  volume: null
+  issue: null

@@ -1,0 +1,40 @@
+{
+  "source_defined_software_replication_only": true,
+  "source_sha256": {
+    "rmd": "7f915a34db6c3326a0be833bc1c04e57127d90684ce281c9fe4b0cd65a48de70",
+    "selected_realtrace": "85623f172105e349556a304a222ae2142c9f7775a3aef649f22f114fd53ffbb3",
+    "stress": "52c9cf4c7607ecd32a621bb410c967ff5a198d3cdf95f37323008319bb9272ac"
+  },
+  "status": "SYNTHETIC_MINIMAL_UNIT_TEST_FIXTURE_NOT_A_REAL_RUN_RECEIPT",
+  "steps": [
+    {
+      "name": "Fig6B",
+      "returncode": 0
+    },
+    {
+      "name": "equal_partition_binary_completion",
+      "returncode": 0
+    },
+    {
+      "name": "Fig6CD_source",
+      "returncode": 0
+    },
+    {
+      "name": "Fig6CD_RealTrace",
+      "returncode": 0
+    },
+    {
+      "name": "Fig6D_date_dose_audit",
+      "returncode": 0
+    },
+    {
+      "name": "Fig6BCD_crosspanel",
+      "returncode": 0
+    },
+    {
+      "name": "sharp_binary_completion",
+      "returncode": 0
+    }
+  ],
+  "success": true
+}

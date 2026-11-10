@@ -1,0 +1,8 @@
+# Full-source workflow; Python 3.13 recommended. Version ranges permit future compatible fixes.
+numpy>=2.2,<3
+pandas>=2.2,<3
+matplotlib>=3.9,<4
+pyarrow>=20,<24
+
+# Offline metadata/publication-gate validation
+PyYAML>=6.0,<7

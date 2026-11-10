@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this independent software and the original Gervais et al. study when using these results."
+type: software
+title: "Independent Python replication of E. coli starvation-stress reporter analyses (Figure 6B/C/D)"
+authors:
+  - family-names: Dai
+    given-names: Rongzhen
+    orcid: "https://orcid.org/0009-0005-7165-0080"
+keywords:
+  - computational replication
+  - reproducible research
+  - Escherichia coli
+  - single-cell imaging
+  - missing outcomes
+  - Python
+license: MIT

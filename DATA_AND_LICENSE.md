@@ -1,0 +1,7 @@
+# Data provenance and licence boundaries
+
+The **independently authored Python source** in `src/` is supplied under the MIT licence in `LICENSE`.
+
+The original study's experimental source archive, deepMoMA/RealTrace outputs, and R Markdown analysis belong to the original investigators and are retrieved by their DOI https://doi.org/10.5281/zenodo.18059846 . The original 842 MB ZIP, original Feather tables, and original author's R Markdown are **not redistributed here** and are **not assigned the MIT licence**. The small summaries in `references/` are independently reaggregated from the original investigators' openly accessible source records; preserve the attribution to Gervais et al. and the original data DOI when reusing them. The source record is public, but the directly parsed Zenodo page did not supply a reliable licence name in its Rights field. Original data remain credited to Gervais et al.; we distribute only independently calculated compact summaries here, not the original data or analysis scripts.
+
+The author-written paper text and independently drawn figures are shared under Creative Commons Attribution 4.0 International (CC BY 4.0; see `LICENSE-PAPER.md`). The code itself remains MIT licensed; original experimental data, original investigators' software and third-party materials retain their existing rights. CC BY 4.0 applies only to the named author's own paper and originally created figures, not to source-study materials. Any separate Zenodo software release would need its own accurate record and DOI.

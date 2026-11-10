@@ -1,0 +1,4 @@
+arm_A,arm_B,difference_lower,difference_upper,all_binary_completions_preserve_A_gt_B
+Unperturbed,CAM_after_burst,-0.0007186232096333436,0.5072680210470338,False
+CAM_after_burst,CAM_throughout,0.06538684470190992,0.6793104113703871,True
+CAM_throughout,rpoS_KO,0.051041501255144436,0.39195918364771437,True

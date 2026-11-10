@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+results/
+inputs/
+AUTHOR_INPUT_PRIVATE/
+REALTRACE_DERIVED_PRIVATE.csv.gz
+*.feather
+Gervais2026_data.zip

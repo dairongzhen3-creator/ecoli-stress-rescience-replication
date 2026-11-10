@@ -1,0 +1,25 @@
+{
+  "complete_zenodo_zip": {
+    "bytes": 842127932,
+    "sha256": "0697803959ffa64b8b2bc849d716bc841bcb5afe8a42e92b53f397f8c7d7494b",
+    "md5": "207baa767ed43b767f2c97d322866e2d",
+    "status": "full archive verified in previously independent Colab run, not current source replay"
+  },
+  "stress_feather": {
+    "bytes": 482147704,
+    "sha256": "52c9cf4c7607ecd32a621bb410c967ff5a198d3cdf95f37323008319bb9272ac"
+  },
+  "author_Rmd": {
+    "bytes": 207248,
+    "sha256": "7f915a34db6c3326a0be833bc1c04e57127d90684ce281c9fe4b0cd65a48de70"
+  },
+  "selected_realtrace_csv_gz": {
+    "bytes": 33964233,
+    "sha256": "85623f172105e349556a304a222ae2142c9f7775a3aef649f22f114fd53ffbb3"
+  },
+  "original_realtrace_feather": {
+    "bytes": 264629352,
+    "sha256": "17bdb0bc9e45f0aff5435f0a168d87850a3a29370ccf53449201fbb63f18b217",
+    "status": "upstream archive member previously independently checked in Colab"
+  }
+}
